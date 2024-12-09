@@ -1,0 +1,9 @@
+345; Popescu; 2
+427; Andrei Mihail; 6
+632; Elena; 3
+943; Ana; 9
+543; George; 6
+628; Karina; 4
+567; Alex; 9
+205; Andrei; 7
+111; asd; 1

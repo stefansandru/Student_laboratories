@@ -1,0 +1,20 @@
+925; Mara; 7
+285; Sergiu; 7
+345; Popescu; 2
+427; Andrei Mihail; 6
+632; Elena; 3
+543; George; 6
+943; Ana; 9
+628; Karina; 4
+424; Stefania; 7
+476; Mara; 1
+110; Andrei; 2
+535; George; 7
+549; Sergiu; 4
+765; George; 9
+875; Sergiu; 6
+721; Stefania; 6
+175; Elena; 6
+487; Ion; 2
+893; Alex; 6
+829; Florin; 3

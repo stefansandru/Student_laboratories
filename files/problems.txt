@@ -1,0 +1,15 @@
+3; 5; 23; calculatoare
+5; 8; 14; magazin
+6; 10; 7; numere prime
+6; 3; 9; numere complexe
+7; 1; 18; echipa de fotbal
+8; 7; 28; cutii
+8; 4; 23; web page
+7; 7; 30; scara
+13; 1; 20; meci
+14; 3; 27; inalimea valului
+4; 5; 23; network protocols
+12; 5; 14; quantum mechanics
+12; 4; 15; match
+7; 10; 1; data structures
+10; 6; 2; match

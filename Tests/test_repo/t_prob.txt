@@ -1,0 +1,8 @@
+3; 5; 23; calculatoare
+5; 8; 14; magazin
+6; 10; 7; numere prime
+6; 3; 9; numere complexe
+7; 1; 18; echipa de fotbal
+8; 7; 28; cutii
+8; 4; 23; web page
+1; 1; 11; asd
